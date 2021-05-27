@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1622050390 source:c:\c++, codeblocks\proyecto1\proyecto parte2\funcionaux.cpp
+	"FuncionAux.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1622050285 c:\c++, codeblocks\proyecto1\proyecto parte2\funcionaux.h
+	<fstream>
+	<vector>
+	"Product.h"
+
+1622049832 c:\c++, codeblocks\proyecto1\proyecto parte2\product.h
+
+1622050262 source:c:\c++, codeblocks\proyecto1\proyecto parte2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	"FuncionAux.h"
+
+1622049871 source:c:\c++, codeblocks\proyecto1\proyecto parte2\product.cpp
+	<iostream>
+	<cstring>
+	"Product.h"
+
